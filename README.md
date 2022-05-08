@@ -4,7 +4,7 @@
 
 _Reactjs app for Crunch Accounting to enter client's information._
 
-### [Access live in sandbox](https://codesandbox.io/s/xenodochial-nash-xnbqms)
+### [Access live in sandbox](https://codesandbox.io/s/crunch-accounting-5x214b)
 
 ## Installation
 
@@ -41,4 +41,4 @@ To build app for production
 <img src="screenshots/s2.png" />
 <img src="screenshots/s3.png" />
 
-### Developed by [bhupendra Ojha](http://bhupendraojha.engineer/)
+### Developed by [Bhupendra Ojha](http://bhupendraojha.engineer/)
