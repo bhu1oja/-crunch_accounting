@@ -1,4 +1,4 @@
-<img src="src/assets/images/logo.png" height="100px" width="80px" align="right"/>
+<img src="src/assets/images/logo.png" height="80px"  align="right"/>
 
 # Crunch Accounting
 
